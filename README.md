@@ -17,16 +17,9 @@ I believe that the most impactful digital products don't just work—they make s
 
 ### 🚀 What I'm Currently Building & Exploring
 
-**Product Development & Interactive Design**
-* 🌱 **MySawah:** Architecting the core infrastructure and translating comprehensive UI/UX flowcharts into a functional, cross-platform deployment for both mobile and web environments.
-* 🎮 **Game Conceptualization:** Drafting detailed Game Design Documents (GDD) and conceptualizing unique core mechanics for interactive projects, including culinary-themed management games like *Juragan Tahu Bulat* and logic-based labyrinth adventures.
-
 **Data Strategy & Machine Learning**
 * 📊 **Enterprise Data Analytics:** Currently engaged as a Model Analyst & Strategist during my internship at **Indoweb Group**. My role involves identifying, categorizing, and analyzing diverse data sources to optimize digital marketing strategies.
 * 🤖 **Advanced ML Implementations:** Conducting practical research on feature selection, transformation, and scaling. Recent projects involve applying techniques like **SMOTE** and **PCA** on varied datasets (such as the Wine Quality dataset) and rigorously evaluating model performance using Precision, Recall, and F1-Score metrics.
-
-**System Architecture & Business Frameworks**
-* 🏗️ **Strategic Analysis:** Exploring and applying enterprise architecture methodologies, such as the **TOGAF** framework and **Value Chain Analysis**, to assess and design system integrations (e.g., cyber-attack detection architectures) within large-scale operational environments.
 
 ---
 
