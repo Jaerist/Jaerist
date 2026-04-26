@@ -25,4 +25,5 @@ Welcome! I am a multidimensional developer and designer who thrives at the inter
 <br />
 
 [link-linkedin]: https://linkedin.com/in/username-kamu
-[link-email]: mailto:email.kamu@gmail.com
+[link-email]: mailto:email.mochammadfajarrizqul@gmail.com
+[link-youtube]: https://youtube.com/@jarsofcode?si=ta7IeuPboHdfauyu
